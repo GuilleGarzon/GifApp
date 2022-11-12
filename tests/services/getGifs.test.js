@@ -1,4 +1,4 @@
-import { getGifs } from "../../src/services/getGifs";
+import { getGifs } from '../../src/services/getGifs';
 
 describe('Pruebas en getGifs()', () => {
 
